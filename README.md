@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+Мой стек:
+Java
+Collections
+Stream API
+Работа с шаблонами проектирования: Builder, Singleton, Factory Method, Proxy, Decorator, Adapter, Command, Iterator, Observer, Chain of Responsibility.
+Multithreading
+Maven
+Unit тесты
+Git
 <!--
 **DmitriyChastukhin/DmitriyChastukhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
